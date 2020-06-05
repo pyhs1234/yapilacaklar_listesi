@@ -1,42 +1,42 @@
 {
   "project_info": {
-    "project_number": "902992351505",
-    "firebase_url": "https://proje-df062.firebaseio.com",
-    "project_id": "proje-df062",
-    "storage_bucket": "proje-df062.appspot.com"
+    "project_number": "309909703385",
+    "firebase_url": "https://proje-2-2747b.firebaseio.com",
+    "project_id": "proje-2-2747b",
+    "storage_bucket": "proje-2-2747b.appspot.com"
   },
   "client": [
     {
       "client_info": {
-        "mobilesdk_app_id": "1:902992351505:android:c029a07dbb8537732a7cb0",
+        "mobilesdk_app_id": "1:309909703385:android:4000840aab3d2b09824cc8",
         "android_client_info": {
-          "package_name": "com.example.proje"
+          "package_name": "com.example.yaplacaklarlisteuygulamas"
         }
       },
       "oauth_client": [
         {
-          "client_id": "902992351505-5srf8o5vqts0sfv3q6u7lr649dl999gl.apps.googleusercontent.com",
+          "client_id": "309909703385-5s12n86jdv28np3d996ar2c8rklnr2i1.apps.googleusercontent.com",
           "client_type": 1,
           "android_info": {
-            "package_name": "com.example.proje",
+            "package_name": "com.example.yaplacaklarlisteuygulamas",
             "certificate_hash": "e55cc5faf619cb43b7b0badea52a73a653e8deca"
           }
         },
         {
-          "client_id": "902992351505-4eud8f4mq54418kamf914hj0dqj7nudm.apps.googleusercontent.com",
+          "client_id": "309909703385-gm2o7lk2hasb3o35eq0qevc1j9uqc88p.apps.googleusercontent.com",
           "client_type": 3
         }
       ],
       "api_key": [
         {
-          "current_key": "AIzaSyCISkXEVA_2T9XmL_gYtpuSEXPEfmVyuJA"
+          "current_key": "AIzaSyD9YnpDdJOqcQuugVZOjrFuLE6z84nsItw"
         }
       ],
       "services": {
         "appinvite_service": {
           "other_platform_oauth_client": [
             {
-              "client_id": "902992351505-4eud8f4mq54418kamf914hj0dqj7nudm.apps.googleusercontent.com",
+              "client_id": "309909703385-gm2o7lk2hasb3o35eq0qevc1j9uqc88p.apps.googleusercontent.com",
               "client_type": 3
             }
           ]
